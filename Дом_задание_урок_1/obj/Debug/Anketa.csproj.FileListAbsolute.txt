@@ -1,0 +1,6 @@
+D:\Программы VS\Lessons 1\Дом_задание_урок_1\bin\Debug\Дом_задание_урок_1.exe.config
+D:\Программы VS\Lessons 1\Дом_задание_урок_1\bin\Debug\Дом_задание_урок_1.exe
+D:\Программы VS\Lessons 1\Дом_задание_урок_1\bin\Debug\Дом_задание_урок_1.pdb
+D:\Программы VS\Lessons 1\Дом_задание_урок_1\obj\Debug\Anketa.csprojAssemblyReference.cache
+D:\Программы VS\Lessons 1\Дом_задание_урок_1\obj\Debug\Дом_задание_урок_1.exe
+D:\Программы VS\Lessons 1\Дом_задание_урок_1\obj\Debug\Дом_задание_урок_1.pdb
