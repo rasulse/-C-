@@ -1,6 +1,0 @@
-D:\Программы VS\Lessons 2\bin\Debug\Lessons 2.exe.config
-D:\Программы VS\Lessons 2\bin\Debug\Lessons 2.exe
-D:\Программы VS\Lessons 2\bin\Debug\Lessons 2.pdb
-D:\Программы VS\Lessons 2\obj\Debug\Lessons 2.csprojAssemblyReference.cache
-D:\Программы VS\Lessons 2\obj\Debug\Lessons 2.exe
-D:\Программы VS\Lessons 2\obj\Debug\Lessons 2.pdb
