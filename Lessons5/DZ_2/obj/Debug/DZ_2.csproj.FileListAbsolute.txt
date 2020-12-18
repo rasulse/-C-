@@ -1,0 +1,6 @@
+D:\Программирование\GeekBrains\Программирование\Основы языка С# домашние задания\Lesson 5\DZ_2\bin\Debug\DZ_2.exe.config
+D:\Программирование\GeekBrains\Программирование\Основы языка С# домашние задания\Lesson 5\DZ_2\bin\Debug\DZ_2.exe
+D:\Программирование\GeekBrains\Программирование\Основы языка С# домашние задания\Lesson 5\DZ_2\bin\Debug\DZ_2.pdb
+D:\Программирование\GeekBrains\Программирование\Основы языка С# домашние задания\Lesson 5\DZ_2\obj\Debug\DZ_2.exe
+D:\Программирование\GeekBrains\Программирование\Основы языка С# домашние задания\Lesson 5\DZ_2\obj\Debug\DZ_2.pdb
+D:\Программирование\GeekBrains\Программирование\Основы языка С# домашние задания\Lesson 5\DZ_2\obj\Debug\DZ_2.csprojAssemblyReference.cache
